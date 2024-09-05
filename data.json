@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Mouse",
+    "description": "Mouse Inalámbrico",
+    "price": 180000,
+    "image": "mouse.jpg",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "title": "Monitor",
+    "description": "Monitor Curvo",
+    "price": 350000,
+    "image": "monitor.jpg",
+    "stock": 20
+  },
+  {
+    "id": 5,
+    "title": "placa de video",
+    "description": "3090 rtx",
+    "price": 550,
+    "image": "placa.jpg",
+    "stock": 2
+  }
+]
